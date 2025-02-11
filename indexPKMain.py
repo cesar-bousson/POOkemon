@@ -160,9 +160,12 @@ class displayPlayer:
 
 
 # -------------------------------------------------------
+class button:
+    ''' cette classe permet de gerer tous les boutons ''' 
+    pass
 
 class Menu:
-    def __init__(self):
+    def __init__(self,): 
         pass
 
     def draw_menu(self):
