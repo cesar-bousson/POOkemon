@@ -122,7 +122,7 @@ class Pokedex:
 
 class Pokemon:
     def __init__(self, name, level, life):
-        pass
+        pass 
 
     def type(self, type, name_evolution):
         ''' Definit le type du pokemon parmis les 18 disponible dans la liste.'''
@@ -132,6 +132,7 @@ class Pokemon:
         '''La fonction définit la puissance d'attaque et de defense du pokemon en fonction de leur type.
          exemple: Si type eau: attaque 8/10 / defense 5/10. 
          Si attaque 10, probabilité de loupé des attaques de 80%. Si defense 5, probabilité ennemi d'attaque de 50% (1/2).'''
+
 
 
     def info_pokemon(self):
