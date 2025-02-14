@@ -7,7 +7,7 @@ WIDTH = 800
 HEIGHT = 600
 BLACK = (0,0,0)
 GREEN = (0,0,255)
-FONT = # trouver la police du jeu pokemon de base
+FONT = 0# trouver la police du jeu pokemon de base
 
 # ------------------
     #main loop :
